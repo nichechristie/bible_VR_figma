@@ -18,6 +18,8 @@ This repository contains everything you need to design professional UI for a VR 
 | **[GUIDE_02_VR_UI_DESIGN.md](./GUIDE_02_VR_UI_DESIGN.md)** | VR-specific design principles, comfort zones, typography, colors, HUD design, menus |
 | **[GUIDE_03_BIBLE_VR_ASSETS.md](./GUIDE_03_BIBLE_VR_ASSETS.md)** | Creating components, buttons, panels, dialogue systems, quest UI, icons, settings |
 | **[GUIDE_04_PROTOTYPING.md](./GUIDE_04_PROTOTYPING.md)** | Interactive prototypes, animations, testing, developer handoff |
+| **[GUIDE_05_QUEST_UI_DESIGN.md](./GUIDE_05_QUEST_UI_DESIGN.md)** | Complete UI designs for quest system, dialogue, and scene transitions |
+| **[GUIDE_06_NPC_CHARACTER_DESIGN.md](./GUIDE_06_NPC_CHARACTER_DESIGN.md)** | NPC character cards, dialogue UI, portraits, name tags, biblical figure categories |
 
 ---
 
